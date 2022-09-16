@@ -1,0 +1,17 @@
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\bin\Debug\net6.0-windows\Afleveringsopgave_1.exe
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\bin\Debug\net6.0-windows\Afleveringsopgave_1.deps.json
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\bin\Debug\net6.0-windows\Afleveringsopgave_1.runtimeconfig.json
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\bin\Debug\net6.0-windows\Afleveringsopgave_1.dll
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\bin\Debug\net6.0-windows\Afleveringsopgave_1.pdb
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\obj\Debug\net6.0-windows\Afleveringsopgave_1.csproj.AssemblyReference.cache
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\obj\Debug\net6.0-windows\Afleveringsopgave_1.Form1.resources
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\obj\Debug\net6.0-windows\Afleveringsopgave_1.csproj.GenerateResource.cache
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\obj\Debug\net6.0-windows\Afleveringsopgave_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\obj\Debug\net6.0-windows\Afleveringsopgave_1.AssemblyInfoInputs.cache
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\obj\Debug\net6.0-windows\Afleveringsopgave_1.AssemblyInfo.cs
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\obj\Debug\net6.0-windows\Afleveringsopgave_1.csproj.CoreCompileInputs.cache
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\obj\Debug\net6.0-windows\Afleveringsopgave_1.dll
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\obj\Debug\net6.0-windows\refint\Afleveringsopgave_1.dll
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\obj\Debug\net6.0-windows\Afleveringsopgave_1.pdb
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\obj\Debug\net6.0-windows\Afleveringsopgave_1.genruntimeconfig.cache
+C:\Users\ricl\Source\Repos\Afleveringsopgave_1\Afleveringsopgave_1\obj\Debug\net6.0-windows\ref\Afleveringsopgave_1.dll
